@@ -1,6 +1,6 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 <!--![Name](https://github.com/Rajshah1302/Rajshah1302/blob/main/src/Name2.PNG)-->
-<strong>RAJ SHAH</strong>
+<h1><strong>RAJ SHAH</strong></h1>
 
 
  ### Profile Views :<br>
