@@ -9,7 +9,7 @@
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/shahraj2052@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mailto:shahraj2052@gmail.com">   <a  href="https://www.instagram.com/rajshah1302/"><img src="https://img.shields.io/badge/@rajshah1302-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/raj-shah-81b10024a/"><img src="https://img.shields.io/badge/Raj Shah-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+<a href="mailto:shahraj2052@gmail.com"> <img src="https://img.shields.io/badge/shahraj2052@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" ></a>   <a  href="https://www.instagram.com/rajshah1302/"><img src="https://img.shields.io/badge/@rajshah1302-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/raj-shah-81b10024a/"><img src="https://img.shields.io/badge/Raj Shah-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
 <!--<a  href="https://medium.com/@yobasu2015"><img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> -->
 
 ### Here are some ideas to help you get started:
