@@ -2,6 +2,8 @@
 <!--![Name](https://github.com/Rajshah1302/Rajshah1302/blob/main/src/Name2.PNG)-->
 <h1><strong>RAJ SHAH</strong></h1>
 
+### Portfolio :
+ [Check out my portfolio](https://portfoliov1-black.vercel.app/)
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/Rajshah1302/count.svg" />
