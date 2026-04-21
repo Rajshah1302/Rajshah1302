@@ -18,3 +18,6 @@ I’m interested in elegant systems, meaningful work, and software that returns 
 <a href="https://portfoliov2-nine-mu.vercel.app/">Portfolio</a>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rajshah1302&show_icons=false&hide_border=true&title_color=ffffff&text_color=999999&bg_color=00000000&rank_icon=github&include_all_commits=true&count_private=true" height="240" />
+</p>
